@@ -31,6 +31,7 @@ npm start => Slows start slightly (Recommended)
 	
 	
 **Sharing work-in-progress** 
+
 	1. localtunnel
 	Easy share work on your local machine.
 	Offers an elegant way to expose your local host via public url
